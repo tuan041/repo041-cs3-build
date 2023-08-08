@@ -1,0 +1,132 @@
+[
+    {
+        "iconUrl": "https://cdn.animevietsub.moe/data/logo/logoz.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 15538,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 14,
+        "internalName": "AnimeVietsub",
+        "description": "Chuy\u00ean Anime Vietsub 1080P",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/AnimeVietsub.cs3",
+        "name": "AnimeVietsub"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 13909,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "Bluphim",
+        "description": "Phim online si\u00eau ch\u1ea5t l\u01b0\u1ee3ng!",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Bluphim.cs3",
+        "name": "Bluphim"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=motphimtv.vip&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 20014,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Motphim",
+        "description": "Xem phim hay mi\u1ec5n ph\u00ed ch\u1ea5t l\u01b0\u1ee3ng cao v\u1edbi ph\u1ee5 \u0111\u1ec1 ti\u1ebfng vi\u1ec7t!",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Motphim.cs3",
+        "name": "Motphim"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimnhanh2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 23505,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "Phim1080",
+        "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
+        "name": "Phim1080"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 16326,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 14,
+        "internalName": "Phimmoichill",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phimmoichill.cs3",
+        "name": "Phimmoichill"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 281878,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Hexated",
+            "Sora",
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 43,
+        "internalName": "SoraStreamVn",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/SoraStreamVn.cs3",
+        "name": "SoraStreamVn"
+    }
+]

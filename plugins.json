@@ -22,7 +22,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 17182,
+        "fileSize": 18200,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -66,29 +66,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimnhanh2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 23498,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "TuaSan"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 14,
-        "internalName": "Phim1080",
-        "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
-        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
-        "name": "Phim1080"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 16310,
+        "fileSize": 23505,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -101,6 +79,28 @@
             "Movie"
         ],
         "version": 15,
+        "internalName": "Phim1080",
+        "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
+        "name": "Phim1080"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 16326,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
         "internalName": "Phimmoichill",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phimmoichill.cs3",
         "name": "Phimmoichill"
@@ -109,7 +109,7 @@
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 270088,
+        "fileSize": 270101,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,7 +123,7 @@
             "Anime",
             "Movie"
         ],
-        "version": 44,
+        "version": 45,
         "internalName": "SoraStreamVn",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/SoraStreamVn.cs3",

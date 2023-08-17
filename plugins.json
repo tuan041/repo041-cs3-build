@@ -88,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 16391,
+        "fileSize": 16387,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -100,7 +100,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "Phimmoichill",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phimmoichill.cs3",
         "name": "Phimmoichill"

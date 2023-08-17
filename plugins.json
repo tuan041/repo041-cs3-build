@@ -22,7 +22,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 17534,
+        "fileSize": 17544,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -34,7 +34,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "Bluphim",
         "description": "Phim online si\u00eau ch\u1ea5t l\u01b0\u1ee3ng!",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Bluphim.cs3",
@@ -44,7 +44,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=motphimtv.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 21229,
+        "fileSize": 21238,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -56,7 +56,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Motphim",
         "description": "Xem phim hay mi\u1ec5n ph\u00ed ch\u1ea5t l\u01b0\u1ee3ng cao v\u1edbi ph\u1ee5 \u0111\u1ec1 ti\u1ebfng vi\u1ec7t!",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Motphim.cs3",
@@ -66,7 +66,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimnhanh2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 23505,
+        "fileSize": 24234,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -78,7 +78,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "Phim1080",
         "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
@@ -88,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilld.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 16382,
+        "fileSize": 16391,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -100,7 +100,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "Phimmoichill",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phimmoichill.cs3",
         "name": "Phimmoichill"
@@ -109,7 +109,7 @@
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 270119,
+        "fileSize": 270116,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,7 +123,7 @@
             "Anime",
             "Movie"
         ],
-        "version": 45,
+        "version": 46,
         "internalName": "SoraStreamVn",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/SoraStreamVn.cs3",

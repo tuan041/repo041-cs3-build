@@ -66,7 +66,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimnhanh2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 24226,
+        "fileSize": 24587,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -78,7 +78,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "Phim1080",
         "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
@@ -109,7 +109,7 @@
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 269544,
+        "fileSize": 273366,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,7 +123,7 @@
             "Anime",
             "Movie"
         ],
-        "version": 48,
+        "version": 49,
         "internalName": "SoraStreamVn",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/SoraStreamVn.cs3",
@@ -133,7 +133,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem8z.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 17754,
+        "fileSize": 17832,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -144,7 +144,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Xem8z",
         "description": "Phim online si\u00eau ch\u1ea5t l\u01b0\u1ee3ng!",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Xem8z.cs3",

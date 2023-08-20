@@ -44,7 +44,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=motphimtv.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 24219,
+        "fileSize": 24188,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -66,7 +66,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimnhanh2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 24234,
+        "fileSize": 24226,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -78,7 +78,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "Phim1080",
         "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
@@ -109,7 +109,7 @@
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 269083,
+        "fileSize": 269544,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,10 +123,31 @@
             "Anime",
             "Movie"
         ],
-        "version": 47,
+        "version": 48,
         "internalName": "SoraStreamVn",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/SoraStreamVn.cs3",
         "name": "SoraStreamVn"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xem8z.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
+        "fileSize": 17754,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Xem8z",
+        "description": "Phim online si\u00eau ch\u1ea5t l\u01b0\u1ee3ng!",
+        "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Xem8z.cs3",
+        "name": "Xem8z"
     }
 ]

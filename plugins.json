@@ -133,7 +133,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=xem8z.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 17832,
+        "fileSize": 18141,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -144,7 +144,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Xem8z",
         "description": "Phim online si\u00eau ch\u1ea5t l\u01b0\u1ee3ng!",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Xem8z.cs3",

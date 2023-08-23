@@ -44,7 +44,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=motphimtv.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 24112,
+        "fileSize": 23952,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -56,7 +56,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "Motphim",
         "description": "Xem phim hay mi\u1ec5n ph\u00ed ch\u1ea5t l\u01b0\u1ee3ng cao v\u1edbi ph\u1ee5 \u0111\u1ec1 ti\u1ebfng vi\u1ec7t!",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Motphim.cs3",
@@ -66,7 +66,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimnhanh2.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/tuan041/repo041-cs3-build",
-        "fileSize": 25566,
+        "fileSize": 25600,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -78,7 +78,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 20,
+        "version": 21,
         "internalName": "Phim1080",
         "description": "Xem Phim Online Ch\u1ea5t L\u01b0\u1ee3ng Cao",
         "url": "https://raw.githubusercontent.com/tuan041/repo041-cs3-build/builds/Phim1080.cs3",
